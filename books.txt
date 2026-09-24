@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 "Title : The Alchemist, Author : Paulo Coelho ,Genre : Adventure"
+=======
+"Title : Odyessey, Author : Homer ,Genre : Mythology "
+>>>>>>> feature-edit
 "Title : Dune , Author : Frank Herbert , Genre : Sci-FI"
  
